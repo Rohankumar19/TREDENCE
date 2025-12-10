@@ -42,3 +42,6 @@ A React + React Flow application for designing and simulating HR automation work
 ## Assumptions
 - The "Start" node is the entry point.
 - Simulation assumes a happy path execution.
+
+
+<img width="1920" height="1200" alt="Screenshot 2025-12-10 152441" src="https://github.com/user-attachments/assets/7635d5cb-01ff-4b17-8811-369b16d61f9b" />
